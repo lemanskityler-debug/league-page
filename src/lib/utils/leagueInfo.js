@@ -41,7 +41,7 @@ export const managers = [
        },
        "favoritePlayer": 11564, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-       "rookieOrVets": "Rookies",
+  //   "rookieOrVets": "Rookies",
        "philosophy": "Your fantasy team's philosophy", // (optional)
        "tradingScale": 8, // 1 - 10 (optional)
        "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
@@ -56,7 +56,7 @@ export const managers = [
        "photo": "managers/IMG_8245.jpeg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "tb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
+//     "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
        name: "Alex", // Can be anything (usually your rival's name)
          link: 0,  // manager array number within this array, or null to link back to all managers page 
@@ -64,7 +64,7 @@ export const managers = [
        },
       "favoritePlayer": 6888, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-       "rookieOrVets": "Rookies",
+   //    "rookieOrVets": "Rookies",
        "philosophy": "Score more than the other team.", // (optional)
        "tradingScale": 5, // 1 - 10 (optional)
        "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
