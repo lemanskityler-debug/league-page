@@ -33,7 +33,7 @@ export const managers = [
     / {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
     /   "managerID": "605958050657935360",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-    /   "name": "Negr1n",
+    //   "name": "Negr1n",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     /   "location": "St Pete", // (optional)
     /   "bio": "Lorem ipsum...",
