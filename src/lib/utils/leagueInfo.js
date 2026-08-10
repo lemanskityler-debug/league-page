@@ -55,6 +55,7 @@ export const managers = [
        "fantasyStart": 2022,
        "favoriteTeam": "tb",
        "valuePosition": "WR",
+       "philosophy": "Test",
        "tradingScale": 5,
        "preferredContact": "Text",
      },
