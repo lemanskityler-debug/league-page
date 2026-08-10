@@ -41,20 +41,30 @@ export const managers = [
     //   },
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-    // "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
+    // "rookieOrVets": "Rookies
        "philosophy": "Your fantasy team's philosophy", // (optional)
        "tradingScale": 8, // 1 - 10 (optional)
        "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
     {
+    // "roster": 4,
        "managerID": "1384301614763892736",
        "name": "Brendan",
+    // "took0ver": 2020,
        "location": "Wesley Chapel",
        "bio": "Sexy Beast",
        "photo": "managers/IMG_8245.jpeg",
        "fantasyStart": 2022,
        "favoriteTeam": "tb",
+   //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
+    //   "rival": {
+    //     name: "Rival", // Can be anything (usually your rival's name)
+    //     link: 6, // manager array number within this array, or null to link back to all managers page
+    //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+    //   },
+    //   "favoritePlayer": 1426,
        "valuePosition": "WR",
+    // "rookieOrVets": "Rookies
        "philosophy": null,
        "tradingScale": 5,
        "preferredContact": "Text",
