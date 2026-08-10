@@ -68,7 +68,7 @@ export const managers = [
        "philosophy": null,
        "tradingScale": 5,
        "preferredContact": "Text",
-    }
+    },
   
 ]
   
