@@ -65,7 +65,7 @@ export const managers = [
        "location": "Wesley Chapel"
        "bio": "Trade maniac",
        "fantasyStart": 2022,
-       "favoriteTeam": "chi",
+       "favoriteTeam": "tb",
        "valuePosition": "WR",
        "tradingScale": 10,
        "preferredContact": "Text",
