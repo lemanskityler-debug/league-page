@@ -58,18 +58,7 @@ export const managers = [
        "philosophy": null,
        "tradingScale": 5,
        "preferredContact": "Text",
-     },
-  {
-       "managerID": "1384301614763892736",
-       "name": "Tony",
-       "location": "Wesley Chapel"
-       "bio": "Trade maniac",
-       "fantasyStart": 2022,
-       "favoriteTeam": "tb",
-       "valuePosition": "WR",
-       "tradingScale": 10,
-       "preferredContact": "Text",
-  }
+     }
 ]
   
     
