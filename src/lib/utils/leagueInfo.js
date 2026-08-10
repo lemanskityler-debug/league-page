@@ -58,8 +58,7 @@ export const managers = [
        "philosophy": "Test",
        "tradingScale": 5,
        "preferredContact": "Text",
-     },
-
-  ]
+     }
+]
   
     
