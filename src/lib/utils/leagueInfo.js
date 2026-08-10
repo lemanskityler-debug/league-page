@@ -45,7 +45,21 @@ export const managers = [
        "philosophy": "Your fantasy team's philosophy", // (optional)
        "tradingScale": 8, // 1 - 10 (optional)
        "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-     }
+     },
+    {
+       "managerID": "1384301614763892736",
+       "name": "Brendan",
+       "location": "Wesley Chapel",
+       "bio": "Sexy Beast",
+       "photo": "managers/IMG_8245.jpeg",
+       "fantasyStart": 2022,
+       "favoriteTeam": "tb",
+       "valuePosition": "WR",
+       "philosophy": null,
+       "tradingScale": 5,
+       "preferredContact": "Text",
+    }
+  
 ]
   
     
