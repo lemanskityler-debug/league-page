@@ -57,7 +57,7 @@ export const managers = [
        "valuePosition": "WR"
        "tradingScale": 5
        "preferredContact": "Text",
-     }
+     },
 
   ]
   
